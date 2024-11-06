@@ -17,9 +17,9 @@ class Solution {
 //         }
         
         int count_0 = 0, count_1 = 0;
-        for(int num:nums){
-            if(num == 0) count_0++;
-            else if(num == 1) count_1++;
+        for(int i=0;i<=nums.length-1;i++){
+            if(nums[i] == 0) count_0++;
+            else if(nums[i] == 1) count_1++;
         }
         for(int i=0;i<count_0;i++){
             nums[i]=0;

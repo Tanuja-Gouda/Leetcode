@@ -6,24 +6,18 @@ class Solution {
     //    Arrays.sort(ch2);
     //    return Arrays.equals(ch1,ch2); 
 
-    if(s.length() != t.length())
-    {
-        return false;
-    }
+    if(s.length() != t.length()) return false;
+        
+        int[] count = new int[26]; // O(1) space, fixed for 26 English letters
 
-    int[] count = new int[26];
-
-    for(int i=0;i<s.length();i++){
-        count[s.charAt(i) - 'a']++;
-        count[t.charAt(i) - 'a']--;
-    }
-
-    for(int c: count){
-        if(c != 0){
-            return false;
+        for (int i = 0; i < s.length(); i++) {
+            count[s.charAt(i) - 'a']++;
+            count[t.charAt(i) - 'a']--;
         }
-    }
 
-    return true;
+        for (int c : count) {
+            if (c != 0) return false;
+        }
+        return true;
     }
 }

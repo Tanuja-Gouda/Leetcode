@@ -46,4 +46,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->

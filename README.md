@@ -29,6 +29,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
@@ -56,6 +57,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

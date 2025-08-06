@@ -46,7 +46,7 @@ class Solution {
         ListNode secondHead = reverseList(mid);
         ListNode reversed = secondHead;
 
-        while(head!=null && secondHead!=null){
+        while(secondHead!=null){
             if(head.val != secondHead.val){
                 break;
             }

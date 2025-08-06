@@ -62,6 +62,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -77,6 +78,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -115,4 +117,8 @@
 | [0162-find-peak-element](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0792-binary-search) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

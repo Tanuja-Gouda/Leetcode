@@ -121,4 +121,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0202-happy-number) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->

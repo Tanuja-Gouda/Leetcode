@@ -42,6 +42,7 @@
 | [0162-find-peak-element](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0792-binary-search) |
@@ -58,6 +59,7 @@
 | [0148-sort-list](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0202-happy-number](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |
@@ -136,6 +139,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0792-binary-search) |
 ## Math
@@ -143,6 +147,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -176,4 +181,8 @@
 |  |
 | ------- |
 | [2195-time-needed-to-buy-tickets](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

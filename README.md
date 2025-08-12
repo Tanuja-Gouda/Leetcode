@@ -40,6 +40,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0792-binary-search) |
@@ -74,6 +75,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0344-reverse-string) |
@@ -137,6 +139,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0202-happy-number) |
 ## Linked List
 |  |

@@ -88,6 +88,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0125-valid-palindrome) |
@@ -99,6 +100,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0202-happy-number) |
@@ -149,6 +151,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0189-rotate-array) |

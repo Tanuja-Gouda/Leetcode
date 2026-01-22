@@ -6,3 +6,14 @@ WHERE (customer_id,order_date) IN (
     FROM Delivery 
     GROUP BY customer_id
 );
+
+
+
+
+
+
+
+
+
+
+

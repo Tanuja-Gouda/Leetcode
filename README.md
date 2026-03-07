@@ -43,6 +43,7 @@
 | [0035-search-insert-position](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0039-combination-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0189-rotate-array) |
@@ -111,6 +112,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0012-integer-to-roman) |
+| [0128-longest-consecutive-sequence](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0202-happy-number) |
@@ -269,4 +271,8 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0039-combination-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

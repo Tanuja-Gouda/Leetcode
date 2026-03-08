@@ -46,6 +46,7 @@
 | [0054-spiral-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0162-find-peak-element) |
@@ -154,6 +155,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0118-pascals-triangle) |
 ## Binary Search
 |  |
 | ------- |

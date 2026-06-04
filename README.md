@@ -41,6 +41,7 @@
 | [0841-keys-and-rooms](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -350,6 +351,7 @@
 | [0695-max-area-of-island](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -372,6 +374,7 @@
 | [0994-rotting-oranges](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -381,4 +384,5 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->

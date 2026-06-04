@@ -32,6 +32,7 @@
 | [0200-number-of-islands](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0283-move-zeroes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0695-max-area-of-island](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0792-binary-search) |
 | [1677-matrix-diagonal-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -250,6 +252,7 @@
 | [0054-spiral-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0695-max-area-of-island) |
 | [1677-matrix-diagonal-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Memoization
 |  |
@@ -317,6 +320,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0695-max-area-of-island) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -328,6 +332,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0695-max-area-of-island](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0695-max-area-of-island) |
 ## Binary Search Tree
 |  |
 | ------- |

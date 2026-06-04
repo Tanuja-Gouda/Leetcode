@@ -77,6 +77,7 @@
 | [0283-move-zeroes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0463-island-perimeter) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0733-flood-fill) |
@@ -188,6 +189,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0542-01-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0542-01-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -258,6 +260,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0994-rotting-oranges) |
@@ -341,6 +344,7 @@
 | [0200-number-of-islands](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0542-01-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0994-rotting-oranges) |

@@ -35,6 +35,7 @@
 | [0463-island-perimeter](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -344,6 +345,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -362,6 +364,7 @@
 | [0463-island-perimeter](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0994-rotting-oranges) |
@@ -371,4 +374,8 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

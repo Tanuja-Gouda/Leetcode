@@ -55,6 +55,7 @@
 | [1306-jump-game-iii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -447,6 +448,7 @@
 | [1306-jump-game-iii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -469,6 +471,7 @@
 | [0841-keys-and-rooms](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0886-possible-bipartition) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1514-path-with-maximum-probability](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |

@@ -22,6 +22,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [1254-number-of-closed-islands](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1631-path-with-minimum-effort](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -441,6 +443,7 @@
 | [1254-number-of-closed-islands](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1631-path-with-minimum-effort](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |

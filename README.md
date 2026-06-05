@@ -85,6 +85,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0189-rotate-array) |
@@ -160,6 +161,7 @@
 | [0079-word-search](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0290-word-pattern) |
@@ -176,6 +178,7 @@
 | [0127-word-ladder](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0202-happy-number) |
@@ -210,6 +213,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0139-word-break) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -218,6 +222,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0139-word-break](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0139-word-break) |
 | [0542-01-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0542-01-matrix) |
 ## Binary Search
 |  |
@@ -303,6 +308,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0139-word-break) |
 ## Database
 |  |
 | ------- |

@@ -255,6 +255,7 @@
 | [0139-word-break](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0139-word-break) |
 | [0542-01-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Binary Search
 |  |
 | ------- |
@@ -318,6 +319,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0268-missing-number) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Matrix
 |  |
 | ------- |
@@ -455,6 +457,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0815-bus-routes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0815-bus-routes) |
 | [0841-keys-and-rooms](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0886-possible-bipartition) |
 | [0909-snakes-and-ladders](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0994-rotting-oranges) |
@@ -486,6 +489,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0886-possible-bipartition) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -514,4 +518,8 @@
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->

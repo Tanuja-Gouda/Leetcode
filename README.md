@@ -33,6 +33,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -90,6 +91,7 @@
 | [0229-majority-element-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0283-move-zeroes) |
+| [0399-evaluate-division](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0463-island-perimeter) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -159,6 +161,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0399-evaluate-division](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0399-evaluate-division) |
 ## Hash Table
 |  |
 | ------- |
@@ -355,6 +358,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0695-max-area-of-island) |
@@ -377,6 +381,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -403,6 +408,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0785-is-graph-bipartite) |
@@ -416,4 +422,8 @@
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->

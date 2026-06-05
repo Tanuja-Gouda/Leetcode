@@ -43,6 +43,7 @@
 | [0684-redundant-connection](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0743-network-delay-time](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Quickselect
 |  |
@@ -409,6 +411,7 @@
 | [0684-redundant-connection](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -431,6 +434,7 @@
 | [0399-evaluate-division](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -447,5 +451,6 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->

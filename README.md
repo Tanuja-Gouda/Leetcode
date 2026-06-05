@@ -25,6 +25,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0133-clone-graph) |
@@ -77,6 +78,7 @@
 | [0048-rotate-image](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0118-pascals-triangle) |
@@ -155,6 +157,7 @@
 | [0012-integer-to-roman](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -284,6 +287,7 @@
 | [0048-rotate-image](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -355,6 +359,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Union-Find
 |  |

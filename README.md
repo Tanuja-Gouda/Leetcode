@@ -109,6 +109,7 @@
 | [0994-rotting-oranges](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1514-path-with-maximum-probability](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1677-matrix-diagonal-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -134,6 +135,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0743-network-delay-time](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1514-path-with-maximum-probability](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
@@ -448,6 +450,7 @@
 | [0841-keys-and-rooms](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0886-possible-bipartition) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1514-path-with-maximum-probability](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -460,4 +463,5 @@
 | [0399-evaluate-division](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1514-path-with-maximum-probability](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->

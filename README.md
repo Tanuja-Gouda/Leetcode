@@ -122,6 +122,7 @@
 | [1020-number-of-enclaves](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1306-jump-game-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1514-path-with-maximum-probability](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1514-path-with-maximum-probability) |
@@ -284,6 +285,7 @@
 | [0410-split-array-largest-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0792-binary-search) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |

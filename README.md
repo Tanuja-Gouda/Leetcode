@@ -111,6 +111,7 @@
 | [0410-split-array-largest-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0463-island-perimeter) |
+| [0475-heaters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0475-heaters) |
 | [0528-random-pick-with-weight](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0542-01-matrix) |
@@ -157,6 +158,7 @@
 | [0242-valid-anagram](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0475-heaters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0475-heaters) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -194,6 +196,7 @@
 | [0283-move-zeroes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0475-heaters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0475-heaters) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## String
@@ -300,6 +303,7 @@
 | [0367-valid-perfect-square](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0475-heaters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0475-heaters) |
 | [0528-random-pick-with-weight](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0792-binary-search) |

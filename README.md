@@ -129,6 +129,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1514-path-with-maximum-probability](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1631-path-with-minimum-effort](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1677-matrix-diagonal-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
@@ -155,6 +156,7 @@
 | [0268-missing-number](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Heap (Priority Queue)
 |  |
@@ -298,6 +300,7 @@
 | [0792-binary-search](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0792-binary-search) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1631-path-with-minimum-effort](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |

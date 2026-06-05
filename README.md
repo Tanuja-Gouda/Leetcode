@@ -81,6 +81,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0045-jump-game-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0316-remove-duplicate-letters) |
 ## Monotonic Stack
 |  |
@@ -235,6 +237,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0118-pascals-triangle) |

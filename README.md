@@ -111,6 +111,7 @@
 | [0410-split-array-largest-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0463-island-perimeter) |
+| [0528-random-pick-with-weight](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -299,6 +300,7 @@
 | [0367-valid-perfect-square](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0528-random-pick-with-weight](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0792-binary-search) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -322,6 +324,7 @@
 | [0202-happy-number](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0528-random-pick-with-weight](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0528-random-pick-with-weight) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Linked List
 |  |
@@ -475,6 +478,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0528-random-pick-with-weight](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 ## Breadth-First Search
@@ -574,4 +578,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->

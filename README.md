@@ -19,6 +19,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1544-make-the-string-great) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Tree
 |  |
 | ------- |
@@ -162,6 +163,7 @@
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1631-path-with-minimum-effort](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1677-matrix-diagonal-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1898-maximum-number-of-removable-characters) |
@@ -311,6 +313,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Counting
 |  |
@@ -441,6 +444,7 @@
 | [0054-spiral-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Bit Manipulation
 |  |

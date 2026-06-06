@@ -20,6 +20,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1544-make-the-string-great) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2390-removing-stars-from-a-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -263,6 +264,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1544-make-the-string-great) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1898-maximum-number-of-removable-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -446,6 +448,7 @@
 | [0844-backspace-string-compare](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2390-removing-stars-from-a-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |

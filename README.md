@@ -19,6 +19,7 @@
 | [0394-decode-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0735-asteroid-collision) |
@@ -149,6 +150,7 @@
 | [0463-island-perimeter](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0528-random-pick-with-weight](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0542-01-matrix) |
@@ -346,6 +348,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0853-car-fleet](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0853-car-fleet) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Queue

@@ -23,6 +23,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0856-score-of-parentheses) |
@@ -163,6 +164,7 @@
 | [0706-design-hashmap](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0706-design-hashmap) |
 | [0733-flood-fill](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0752-open-the-lock](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0752-open-the-lock) |
 | [0792-binary-search](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0792-binary-search) |
@@ -349,6 +351,7 @@
 | [0402-remove-k-digits](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0853-car-fleet) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Queue

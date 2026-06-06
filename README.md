@@ -171,6 +171,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
 |  |
@@ -294,6 +295,7 @@
 | [0752-open-the-lock](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0815-bus-routes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |

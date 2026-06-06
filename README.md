@@ -141,6 +141,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0705-design-hashset) |
@@ -193,6 +194,7 @@
 | [0268-missing-number](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0475-heaters) |
+| [0621-task-scheduler](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0621-task-scheduler) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
@@ -202,6 +204,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -297,6 +300,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0496-next-greater-element-i](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0706-design-hashmap) |
 | [0752-open-the-lock](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0752-open-the-lock) |
@@ -312,6 +316,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0621-task-scheduler) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Monotonic Stack
 |  |
@@ -334,6 +339,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0621-task-scheduler) |
 ## Trie
 |  |
 | ------- |

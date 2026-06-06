@@ -12,6 +12,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
 | ------- |
@@ -246,6 +247,7 @@
 | [0399-evaluate-division](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0752-open-the-lock) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 ## Hash Table
 |  |

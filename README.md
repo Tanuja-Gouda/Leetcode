@@ -18,6 +18,7 @@
 | [0844-backspace-string-compare](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1544-make-the-string-great](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1544-make-the-string-great) |
 ## Tree
 |  |
 | ------- |
@@ -258,6 +259,7 @@
 | [0752-open-the-lock](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0752-open-the-lock) |
 | [0844-backspace-string-compare](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1544-make-the-string-great) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 ## Hash Table
 |  |

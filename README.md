@@ -18,6 +18,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0895-maximum-frequency-stack](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -274,6 +275,7 @@
 | [0541-reverse-string-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0752-open-the-lock](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0752-open-the-lock) |
 | [0844-backspace-string-compare](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1544-make-the-string-great) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1898-maximum-number-of-removable-characters) |

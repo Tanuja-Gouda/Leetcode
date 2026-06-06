@@ -13,6 +13,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -263,6 +264,7 @@
 | [0344-reverse-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0399-evaluate-division](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0541-reverse-string-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0752-open-the-lock](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0752-open-the-lock) |
@@ -308,12 +310,14 @@
 | [0011-container-with-most-water](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0045-jump-game-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Queue

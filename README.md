@@ -373,6 +373,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0705-design-hashset](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0706-design-hashmap) |
 | [1669-merge-in-between-linked-lists](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1669-merge-in-between-linked-lists) |

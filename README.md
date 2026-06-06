@@ -16,6 +16,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0636-exclusive-time-of-functions](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0636-exclusive-time-of-functions) |
@@ -283,6 +284,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -468,6 +470,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0394-decode-string) |
 ## Merge Sort
 |  |
 | ------- |

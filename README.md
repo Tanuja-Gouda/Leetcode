@@ -17,6 +17,7 @@
 | [0682-baseball-game](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Tree
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [1306-jump-game-iii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1306-jump-game-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1514-path-with-maximum-probability](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -299,6 +301,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Queue
 |  |
 | ------- |

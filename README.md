@@ -4,6 +4,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -230,6 +231,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0125-valid-palindrome) |

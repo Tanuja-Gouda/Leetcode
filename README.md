@@ -217,6 +217,7 @@
 | [0475-heaters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0475-heaters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## String
@@ -374,6 +375,7 @@
 | [0234-palindrome-linked-list](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0706-design-hashmap) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |

@@ -16,6 +16,7 @@
 | [0496-next-greater-element-i](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0895-maximum-frequency-stack](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1544-make-the-string-great) |
@@ -298,6 +299,7 @@
 | [0706-design-hashmap](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0706-design-hashmap) |
 | [0752-open-the-lock](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0815-bus-routes) |
+| [0895-maximum-frequency-stack](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Greedy
@@ -445,6 +447,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0706-design-hashmap) |
+| [0895-maximum-frequency-stack](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0933-number-of-recent-calls](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Simulation
 |  |
@@ -694,4 +697,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->

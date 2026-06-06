@@ -358,6 +358,7 @@
 | [0268-missing-number](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0528-random-pick-with-weight](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0528-random-pick-with-weight) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Linked List
 |  |
@@ -376,6 +377,7 @@
 | [0328-odd-even-linked-list](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0705-design-hashset](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0706-design-hashmap) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion

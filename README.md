@@ -216,6 +216,7 @@
 | [0011-container-with-most-water](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0086-partition-list) |
@@ -248,6 +249,7 @@
 | [0012-integer-to-roman](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0125-valid-palindrome) |
@@ -688,4 +690,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0933-number-of-recent-calls) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

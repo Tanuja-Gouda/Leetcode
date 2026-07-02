@@ -196,6 +196,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2498-frog-jump-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2498-frog-jump-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -345,6 +346,7 @@
 | [0410-split-array-largest-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0621-task-scheduler) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [2498-frog-jump-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2498-frog-jump-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -423,6 +425,7 @@
 | [1898-maximum-number-of-removable-characters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1901-find-a-peak-element-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2498-frog-jump-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2498-frog-jump-ii) |
 ## Math
 |  |
 | ------- |

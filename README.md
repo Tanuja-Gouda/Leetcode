@@ -203,6 +203,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2498-frog-jump-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2498-frog-jump-ii) |
 | [2560-house-robber-iv](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2560-house-robber-iv) |
+| [3840-house-robber-v](https://github.com/Tanuja-Gouda/Leetcode/tree/master/3840-house-robber-v) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -402,6 +403,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [2560-house-robber-iv](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2560-house-robber-iv) |
+| [3840-house-robber-v](https://github.com/Tanuja-Gouda/Leetcode/tree/master/3840-house-robber-v) |
 ## Binary Search
 |  |
 | ------- |

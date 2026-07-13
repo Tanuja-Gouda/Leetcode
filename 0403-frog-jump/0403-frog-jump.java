@@ -27,7 +27,7 @@ class Solution {
         int k_1=nums[ind]+unit+1;
 
         for(int i=ind+1;i<nums.length;i++){
-            if(nums[i]==k_1 || nums[i]==k || nums[i]==k__1 ){
+            if(unit>1 && nums[i]==k__1 || nums[i]==k || nums[i]==k_1 ){
                 if(find(i,nums,nums[i]-nums[ind],dp)){
                     return dp[ind][unit]=true;
                 }

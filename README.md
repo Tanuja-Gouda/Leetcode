@@ -29,6 +29,7 @@
 | [0856-score-of-parentheses](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0895-maximum-frequency-stack](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0946-validate-stack-sequences](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [0975-odd-even-jump](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0975-odd-even-jump) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -179,6 +180,7 @@
 | [0853-car-fleet](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0853-car-fleet) |
 | [0909-snakes-and-ladders](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0946-validate-stack-sequences](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [0975-odd-even-jump](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0975-odd-even-jump) |
 | [0994-rotting-oranges](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -226,6 +228,7 @@
 | [0475-heaters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0475-heaters) |
 | [0621-task-scheduler](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0853-car-fleet) |
+| [0975-odd-even-jump](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0975-odd-even-jump) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
@@ -367,6 +370,7 @@
 | [0503-next-greater-element-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0853-car-fleet) |
+| [0975-odd-even-jump](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0975-odd-even-jump) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Queue
 |  |
@@ -407,6 +411,7 @@
 | [0542-01-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0975-odd-even-jump](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0975-odd-even-jump) |
 | [2560-house-robber-iv](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2560-house-robber-iv) |
 | [3840-house-robber-v](https://github.com/Tanuja-Gouda/Leetcode/tree/master/3840-house-robber-v) |
 ## Binary Search
@@ -768,4 +773,5 @@
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0895-maximum-frequency-stack) |
+| [0975-odd-even-jump](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0975-odd-even-jump) |
 <!---LeetCode Topics End-->

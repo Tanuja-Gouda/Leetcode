@@ -1,24 +1,21 @@
 class Solution {
+    int[] dp;
     public int climbStairs(int n) {
-        int[] dp=new int[n+1];
+        dp=new int[n+1];
         Arrays.fill(dp,-1);
-        return solve(n,dp);
-
+       return findWays(n);
     }
 
-    private int solve(int n, int[] dp){
-
-        if(n==1 || n==0){
+    private int findWays(int n){
+        if(n==0 || n==1){
             return 1;
         }
-
         if(dp[n] != -1){
             return dp[n];
         }
+        int step1=findWays(n-1);
+        int step2=findWays(n-2);
 
-        int left=solve(n-1,dp);
-        int right=solve(n-2,dp);
-
-        return dp[n]=left+right;
+        return dp[n] = step1+step2;
     }
 }

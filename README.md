@@ -188,6 +188,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1306-jump-game-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1340-jump-game-v](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1340-jump-game-v) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -231,6 +232,7 @@
 | [0853-car-fleet](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0853-car-fleet) |
 | [0975-odd-even-jump](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0975-odd-even-jump) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1340-jump-game-v](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1340-jump-game-v) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -415,6 +417,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0975-odd-even-jump](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0975-odd-even-jump) |
+| [1340-jump-game-v](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1340-jump-game-v) |
 | [1696-jump-game-vi](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1696-jump-game-vi) |
 | [2560-house-robber-iv](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2560-house-robber-iv) |
 | [3840-house-robber-v](https://github.com/Tanuja-Gouda/Leetcode/tree/master/3840-house-robber-v) |

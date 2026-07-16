@@ -173,6 +173,7 @@
 | [0733-flood-fill](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0752-open-the-lock](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0752-open-the-lock) |
 | [0792-binary-search](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0792-binary-search) |
@@ -348,6 +349,7 @@
 | [0621-task-scheduler](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0706-design-hashmap) |
+| [0740-delete-and-earn](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0815-bus-routes) |
 | [0895-maximum-frequency-stack](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0895-maximum-frequency-stack) |
@@ -416,6 +418,7 @@
 | [0403-frog-jump](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0542-01-matrix) |
+| [0740-delete-and-earn](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0975-odd-even-jump](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0975-odd-even-jump) |

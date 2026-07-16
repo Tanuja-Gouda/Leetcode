@@ -126,6 +126,7 @@
 | [0039-combination-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -214,6 +215,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -405,6 +407,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0091-decode-ways) |

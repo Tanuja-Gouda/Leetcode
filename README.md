@@ -161,6 +161,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0475-heaters) |
+| [0494-target-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0528-random-pick-with-weight](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0528-random-pick-with-weight) |
@@ -424,6 +425,7 @@
 | [0403-frog-jump](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -643,6 +645,7 @@
 | [0039-combination-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0494-target-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Union-Find
 |  |

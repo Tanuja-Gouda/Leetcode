@@ -4,13 +4,17 @@ class Solution {
         int minProd=nums[0];
         int maxProd=nums[0];
         for(int i=1;i<nums.length;i++){
-            int min=Math.min(nums[i], Math.min(minProd*nums[i], maxProd*nums[i]));
-            int max=Math.max(nums[i], Math.max(minProd*nums[i], maxProd*nums[i]));
+            if(nums[i] < 0){
+                int temp=minProd;
+                minProd=maxProd;
+                maxProd=temp;
+            }
 
-            minProd=min;
-            maxProd=max;
+            maxProd=Math.max(nums[i],nums[i]*maxProd);
+            minProd=Math.min(nums[i],nums[i]*minProd);
 
-            ans=maxProd>ans ? maxProd : ans;
+            ans=Math.max(ans,maxProd);
+
         }
         return ans;
     }

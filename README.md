@@ -138,6 +138,7 @@
 | [0088-merge-sorted-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0139-word-break) |
@@ -424,6 +425,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0198-house-robber) |

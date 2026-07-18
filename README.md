@@ -413,6 +413,7 @@
 | [0045-jump-game-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
@@ -480,6 +481,7 @@
 | [0012-integer-to-roman](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -803,4 +805,8 @@
 |  |
 | ------- |
 | [1696-jump-game-vi](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1696-jump-game-vi) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

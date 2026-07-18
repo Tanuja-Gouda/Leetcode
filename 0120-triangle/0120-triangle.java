@@ -11,10 +11,7 @@ class Solution {
             int[] cur=new int[n];
             for(int j=0;j<=i;j++){
                 int b=next[j];
-                int d=Integer.MAX_VALUE;
-                if(j<=i){
-                    d=next[j+1];
-                }
+                int d= d=next[j+1];;
                 cur[j]=triangle.get(i).get(j) + Math.min(b,d);
             }
             next=cur;

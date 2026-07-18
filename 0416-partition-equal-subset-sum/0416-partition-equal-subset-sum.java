@@ -1,5 +1,4 @@
 class Solution {
-    boolean[] dp;
     public boolean canPartition(int[] nums) {
         int n=nums.length;
         int totalSum=0;
@@ -7,33 +6,32 @@ class Solution {
             totalSum += num;
         }
 
-        if(totalSum%2 == 1){
+        if((totalSum%2) == 1){
             return false;
         }
 
         int target=totalSum/2;
-        dp=new boolean[target+1];
 
-        if(nums[0]<=target){
-            dp[nums[0]]=true;
+        boolean[] prev=new boolean[target +1];
+
+        prev[0]=true;
+
+        if(nums[0] <= target){
+            prev[nums[0]]=true;
         }
-        dp[0]=true;
 
-        for(int i=1;i<nums.length;i++){
-            boolean[] cur=new boolean[target+1];
-            cur[0]=true;
-            for(int j=1;j<=target;j++){
+        for(int i=1;i<n;i++){
+            for(int j=target;j>=0;j--){
+                boolean notTake=prev[j];
                 boolean take=false;
-                if(nums[i]<=j){
-                    take=dp[j-nums[i]];
+                if(nums[i] <= j){
+                    take=prev[j-nums[i]];
                 }
-                boolean notTake=dp[j];
-                cur[j]=take || notTake;
+                prev[j]=take || notTake;
             }
-            dp=cur;
         }
 
-        return dp[target];
+        return prev[target];
 
 
 

@@ -1,39 +1,45 @@
 class Solution {
     public int findTargetSumWays(int[] nums, int target) {
-
-        int sum = 0;
-        for (int num : nums) {
-            sum += num;
+        int n=nums.length;
+        int Sum=0;
+        for(int num:nums){
+            Sum += num;
         }
 
-        // Impossible cases
-        if (Math.abs(target) > sum)
+        int totalSum = Sum+target;
+
+        if((totalSum%2) == 1 || Sum<Math.abs(target)){
             return 0;
+        }
 
-        if ((sum + target) % 2 != 0)
-            return 0;
+        if(n==1 && nums[0] == 0){
+            return 2;
+        }
 
-        int req = (sum + target) / 2;
-        int n = nums.length;
+        int reqTarget=totalSum/2;
 
-        int[][] dp = new int[n + 1][req + 1];
+        int[] prev=new int[reqTarget+1];
 
-        // One way to make sum 0: choose nothing
-        dp[0][0] = 1;
+        prev[0]=1;
 
-        for (int i = 1; i <= n; i++) {
-            for (int j = 0; j <= req; j++) {
+        if(nums[0] <= reqTarget){
+            prev[nums[0]] += 1;
+        }
 
-                // Not take
-                dp[i][j] = dp[i - 1][j];
-
-                // Take
-                if (nums[i - 1] <= j) {
-                    dp[i][j] += dp[i - 1][j - nums[i - 1]];
+        for(int i=1;i<n;i++){
+            for(int j=reqTarget;j>=0;j--){
+                int notTake=prev[j];
+                int take=0;
+                if(nums[i] <= j){
+                    take=prev[j-nums[i]];
                 }
+                prev[j]=take + notTake;
             }
         }
 
-        return dp[n][req];
+        return prev[reqTarget];
+
+
+
     }
 }

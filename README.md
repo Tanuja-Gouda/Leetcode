@@ -194,6 +194,7 @@
 | [0975-odd-even-jump](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0975-odd-even-jump) |
 | [0994-rotting-oranges](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1049-last-stone-weight-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -444,6 +445,7 @@
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0931-minimum-falling-path-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0975-odd-even-jump](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0975-odd-even-jump) |
+| [1049-last-stone-weight-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1340-jump-game-v](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1340-jump-game-v) |
 | [1696-jump-game-vi](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1696-jump-game-vi) |
 | [2560-house-robber-iv](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2560-house-robber-iv) |

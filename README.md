@@ -329,6 +329,7 @@
 | [0844-backspace-string-compare](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1544-make-the-string-great) |
@@ -446,6 +447,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0975-odd-even-jump](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0975-odd-even-jump) |
 | [1049-last-stone-weight-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1049-last-stone-weight-ii) |
+| [1143-longest-common-subsequence](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1340-jump-game-v](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1340-jump-game-v) |
 | [1696-jump-game-vi](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1696-jump-game-vi) |
 | [2560-house-robber-iv](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2560-house-robber-iv) |

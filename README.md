@@ -325,6 +325,7 @@
 | [0402-remove-k-digits](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0541-reverse-string-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0709-to-lower-case](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0709-to-lower-case) |
 | [0752-open-the-lock](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0752-open-the-lock) |
 | [0844-backspace-string-compare](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -443,6 +444,7 @@
 | [0494-target-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |

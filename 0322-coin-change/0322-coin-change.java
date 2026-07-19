@@ -1,30 +1,29 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
         int n=coins.length;
-        int[] dp=new int[amount+1];
-
+        int[] prev=new int[amount+1];
         for(int i=0;i<=amount;i++){
-            if(i%coins[0] ==0){
-                dp[i]=i/coins[0];
-            }
-            else{
-                dp[i] = Integer.MAX_VALUE;
+            if(i%coins[0] == 0){
+                prev[i]=i/coins[0];
+            }else{
+                prev[i]=Integer.MAX_VALUE;
             }
         }
 
         for(int i=1;i<n;i++){
             for(int j=coins[i];j<=amount;j++){
-                int notTake=dp[j];
+                int notTake=prev[j];
                 int take=Integer.MAX_VALUE;
-                if(coins[i]<=j){
-                    int res=dp[j-coins[i]];
-                    if(res != Integer.MAX_VALUE){
-                        take = 1+res;
+                if(coins[i] <= j){
+                    int ans=prev[j-coins[i]];
+
+                    if(ans != Integer.MAX_VALUE){
+                        take = 1+ans;
                     }
                 }
-                dp[j]=Math.min(take,notTake);
+                prev[j]=Math.min(take,notTake);
             }
         }
-        return dp[amount] != Integer.MAX_VALUE ? dp[amount] : -1;
+        return prev[amount] != Integer.MAX_VALUE ? prev[amount] : -1;
     }
 }

@@ -184,6 +184,7 @@
 | [0695-max-area-of-island](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0706-design-hashmap) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0739-daily-temperatures) |
@@ -388,6 +389,7 @@
 | [0402-remove-k-digits](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0621-task-scheduler) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2498-frog-jump-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2498-frog-jump-ii) |
 | [2560-house-robber-iv](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2560-house-robber-iv) |
@@ -460,6 +462,7 @@
 | [0542-01-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |

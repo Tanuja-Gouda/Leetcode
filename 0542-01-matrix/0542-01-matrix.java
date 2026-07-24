@@ -1,50 +1,42 @@
 class Solution {
 
     public int[][] updateMatrix(int[][] mat) {
+        int m=mat.length;
+        int n=mat[0].length;
 
-        int m = mat.length;
-        int n = mat[0].length;
+        int[][] distance=new int[m][n];
+        for(int i=0;i<m;i++){
+        Arrays.fill(distance[i],-1);
+        }
 
-        Queue<int[]> q = new LinkedList<>();
-        int[][] distance = new int[m][n];
-
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-
-                if (mat[i][j] == 0) {
-                    q.offer(new int[]{i, j});
-                } else {
-                    distance[i][j] = -1;
+        Queue<int[]> q=new LinkedList<>();
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(mat[i][j]==0){
+                    distance[i][j]=0;
+                    q.offer(new int[]{i,j});
                 }
             }
         }
 
-        int[] dr = {-1, 1, 0, 0};
-        int[] dc = {0, 0, -1, 1};
+        while(!q.isEmpty()){
+            int[] cur=q.peek();
+            q.remove();
+            int r=cur[0];
+            int c=cur[1];
 
-        while (!q.isEmpty()) {
+            int[] dr={0,1,0,-1};
+            int[] dc={-1,0,1,0};
 
-            int[] curr = q.poll();
-            int row = curr[0];
-            int col = curr[1];
-
-            for (int d = 0; d < 4; d++) {
-
-                int newRow = row + dr[d];
-                int newCol = col + dc[d];
-
-                if (newRow >= 0 && newCol >= 0 &&
-                    newRow < m && newCol < n &&
-                    distance[newRow][newCol] == -1) {
-
-                    distance[newRow][newCol] =
-                            distance[row][col] + 1;
-
-                    q.offer(new int[]{newRow, newCol});
+            for(int i=0;i<4;i++){
+                int curR=r+dr[i];
+                int curC=c+dc[i];
+                if(curR>=0 && curC>=0 && curR<m && curC<n && mat[curR][curC]==1 && distance[curR][curC] == -1){
+                    distance[curR][curC]=distance[r][c]+1;
+                    q.offer(new int[]{curR,curC});
                 }
             }
         }
-
         return distance;
     }
 }

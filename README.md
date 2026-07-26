@@ -68,6 +68,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0337-house-robber-iii) |
@@ -729,6 +730,7 @@
 | [0133-clone-graph](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0322-coin-change) |
@@ -772,6 +774,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0547-number-of-provinces) |
@@ -793,6 +796,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Shortest Path

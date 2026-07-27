@@ -15,33 +15,73 @@
  */
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
-        Queue<TreeNode> queue= new LinkedList<TreeNode>();
-        List<List<Integer>> list=new LinkedList<List<Integer>>();
+        List<List<Integer>> ans=new ArrayList<>();
 
+        Queue<TreeNode> q=new LinkedList<>();
         if(root==null){
-            return list;
+            return ans;
         }
-        queue.offer(root);
 
-        while(!queue.isEmpty()){
-            int size=queue.size();
-            List<Integer> subList=new LinkedList<Integer>();
-            
+        q.offer(root);
+        while(!q.isEmpty()){
+            int size=q.size();
+            List<Integer> subList=new ArrayList<>();
+
             for(int i=0;i<size;i++){
-                TreeNode cur=queue.poll();
-                subList.add(cur.val);
-
-                if(cur.left != null){
-                    queue.offer(cur.left);
+                TreeNode curNode=q.poll();
+                subList.add(curNode.val);
+                if(curNode.left != null){
+                    q.offer(curNode.left);
                 }
-
-                if(cur.right != null){
-                    queue.offer(cur.right);
+                if(curNode.right != null){
+                    q.offer(curNode.right);
                 }
             }
+            ans.add(subList);
+        } 
 
-            list.add(subList);
-        }
-        return list;
+        return ans;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       // Queue<TreeNode> queue= new LinkedList<TreeNode>();
+        // List<List<Integer>> list=new LinkedList<List<Integer>>();
+
+        // if(root==null){
+        //     return list;
+        // }
+        // queue.offer(root);
+
+        // while(!queue.isEmpty()){
+        //     int size=queue.size();
+        //     List<Integer> subList=new LinkedList<Integer>();
+            
+        //     for(int i=0;i<size;i++){
+        //         TreeNode cur=queue.poll();
+        //         subList.add(cur.val);
+
+        //         if(cur.left != null){
+        //             queue.offer(cur.left);
+        //         }
+
+        //         if(cur.right != null){
+        //             queue.offer(cur.right);
+        //         }
+        //     }
+
+        //     list.add(subList);
+        // }
+        // return list;

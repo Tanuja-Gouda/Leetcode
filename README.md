@@ -54,6 +54,7 @@
 | [0337-house-robber-iii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0337-house-robber-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Depth-First Search
 |  |
@@ -89,6 +90,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0886-possible-bipartition) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1306-jump-game-iii) |
@@ -114,6 +116,7 @@
 | [0337-house-robber-iii](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0337-house-robber-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -253,6 +256,7 @@
 | [0621-task-scheduler](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0853-car-fleet) |
 | [0975-odd-even-jump](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0975-odd-even-jump) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1340-jump-game-v](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1340-jump-game-v) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -379,6 +383,7 @@
 | [0752-open-the-lock](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0815-bus-routes) |
 | [0895-maximum-frequency-stack](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0895-maximum-frequency-stack) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Tanuja-Gouda/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Greedy
@@ -758,6 +763,7 @@
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0886-possible-bipartition) |
 | [0909-snakes-and-ladders](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0909-snakes-and-ladders) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Tanuja-Gouda/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Tanuja-Gouda/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |

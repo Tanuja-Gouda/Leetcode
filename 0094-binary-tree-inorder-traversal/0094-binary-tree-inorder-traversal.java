@@ -20,10 +20,11 @@ class Solution {
         return res;
     }
     
-    private void traverse(TreeNode root) {
-        if (root == null) {
+    private void traverse(TreeNode root){
+        if(root==null){
             return;
         }
+
         traverse(root.left);
         res.add(root.val);
         traverse(root.right);
